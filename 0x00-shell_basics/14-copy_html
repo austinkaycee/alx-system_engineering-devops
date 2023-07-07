@@ -1,3 +1,2 @@
 #!/bin/bash
-cp  -un *.html ../ 
-sh: 1: wq: not found
+cp -un *.html ../
